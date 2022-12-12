@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EmprendeFacil</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Búsqueda</string>
+    <string name="title_notifications">Notificaciones</string>
+	<string name="title_registro">Registro</string>
+	<string name="title_galeria">Galeria</string>
+	<string name="title_nombre">Nombre</string>
+	<string name="title_documento">Documento</string>
+	<string name="title_direccion">Direccion</string>
+	<string name="title_bienvenido">Bienvenido</string>
+	<string name="title_ciudad">Ciudad</string>
+	
+	
+	
+	
+	
+	
+</resources>
